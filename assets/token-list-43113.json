@@ -1,8 +1,8 @@
 {
-	"name": "Testnet Token List",
+	"name": "Avalanche C-Chain Testnet Token List",
 	"logoURI": "ipfs://QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
 	"keywords": [
-		"testnet"
+		"testnet Avalanche C-Chain"
 	],
 	"tags": {},
 	"timestamp": "2024-09-06T18:00:00+00:00",
@@ -38,6 +38,6 @@
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 9
+		"patch": 0
 	}
 }
