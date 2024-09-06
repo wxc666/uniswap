@@ -8,7 +8,7 @@
 	"timestamp": "2024-09-06T14:33:00+00:00",
 	"tokens": [
 		{
-			"chainId": 5777,
+			"chainId": 1377,
 			"address": "0x60Daf2027fd4a7d4D6826F9719fcc67Ba48B723F",
 			"symbol": "A",
 			"name": "A",
@@ -17,7 +17,7 @@
 			"tags": []
 		},
 		{
-			"chainId": 5777,
+			"chainId": 1377,
 			"address": "0x87bAcFae5fb0170B768A0ceBe1f4A334ADF0309c",
 			"symbol": "B",
 			"name": "B",
@@ -26,7 +26,7 @@
 			"tags": []
 		},
 		{
-			"chainId": 5777,
+			"chainId": 1377,
 			"address": "0x636a10BC114Ef90F8B62E2d8e0cb34CCc27a5740",
 			"symbol": "C",
 			"name": "C",
@@ -35,7 +35,7 @@
 			"tags": []
 		},
 		{
-			"chainId": 5777,
+			"chainId": 1377,
 			"address": "0x23D9b7936950149cd7d5Af853889df814554FBAe",
 			"symbol": "D",
 			"name": "D",
