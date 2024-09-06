@@ -2,10 +2,10 @@
 	"name": "Avalanche C-Chain Testnet Token List",
 	"logoURI": "ipfs://QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
 	"keywords": [
-		"testnet Avalanche C-Chain"
+		"testnet"
 	],
 	"tags": {},
-	"timestamp": "2024-09-06T18:00:00+00:00",
+	"timestamp": "2024-09-06T20:00:00+00:00",
 	"tokens": [
 		{
 			"chainId": 43113,
@@ -38,6 +38,6 @@
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 0
+		"patch": 1
 	}
 }
